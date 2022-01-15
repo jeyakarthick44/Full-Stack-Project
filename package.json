@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeyakarthick44/Full-Stack-Project.git"
+  },
+  "author": "jeyakarthick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeyakarthick44/Full-Stack-Project/issues"
+  },
+  "homepage": "https://github.com/jeyakarthick44/Full-Stack-Project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
